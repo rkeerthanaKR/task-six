@@ -1,0 +1,18 @@
+1. Search "AWS Cloud Account" in browser. 
+2. Click on "AWS - Free Cloud Computing Services" Web site.
+3. After Entering the web site Click on "Create a Free Account" tab.
+4. We enter into a new page. Enter the "mail id" and "name (Choose a name for your account). Press on "Verify email address" tab.
+5. A verification code will sent to your email address.
+6. Enter the verification code in AWS web site
+7. After entering the code we can create password for the account
+8. Then we have to enter "The use of the account, Name and Contact Information(phone number and address)"
+9. Check the terms and condition box 
+10. Next page We have enter the billing information.
+11. After entering the billing information, we enter the purpose of the account and confirm our identity by uploading PAN card proof.
+12. Then we have to confirm out mobile number by receiving text messages or voice call.
+13. Al last we have to select a support plan
+
+
+
+
+
